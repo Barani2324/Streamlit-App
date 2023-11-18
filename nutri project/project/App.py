@@ -7,7 +7,7 @@ st.title("Welcome to Nutritional Counseling")
 
 from PIL import Image
 
-image = Image.open("C:/Users/ADMIN/nutri project/project/image.png")
+image = Image.open("nutri project/project/image.png")
 
 st.image(image)
 
